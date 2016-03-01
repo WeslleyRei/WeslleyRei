@@ -1,0 +1,8 @@
+name: TMBtestconection
+main: me.weslleyruas.testconection.main
+version: 1.0
+commands:
+    set:
+        description: testa!
+    ver:
+        description: testa!

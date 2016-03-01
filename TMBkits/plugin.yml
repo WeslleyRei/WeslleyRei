@@ -1,0 +1,10 @@
+name: TMBkits
+main: me.weslleyruas.kits.main
+version: 1.0
+commands:
+    setkit:
+        description: Sete seu kit manerinho!
+    kit:
+        description: Pegue seu kit manerinho!
+    delkit:
+        description: Delete seu kit manerinho!

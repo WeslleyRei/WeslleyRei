@@ -1,0 +1,12 @@
+name: TMBhome
+main: me.weslleyruas.home.main
+version: 1.0
+commands:
+    sethome:
+        description: Seta casinhas bonitas!
+    home:
+        description: Te levam para suas casas!
+    listhomes:
+        description: Veja suas homes!
+    delhome:
+        description: Apague suas homes!

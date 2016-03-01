@@ -1,0 +1,6 @@
+#Criado por: Weslley Ruas
+
+#Mensagem falando para aguardar o delay
+delay_ativado: '&1Voce usou um comando nos ultimos segundos, aguarde!'
+#Tempo em segundos para o delay
+tempo_delay: 5

@@ -1,0 +1,6 @@
+name: TMBclearchat
+main: me.weslleyruas.clearchat.main
+version: 1.0
+commands:
+    cc:
+        description: Sete seu kit manerinho!
